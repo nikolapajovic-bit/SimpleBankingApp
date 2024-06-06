@@ -49,9 +49,7 @@ int main() {
 			break;
 			
 		default:
-			cout << "Opcija not defined" << endl;
-			break;
-			
+			cout << "Opcija not defined" << endl;			
 		}
 		cout << endl;
 	} while (opcija != 4);
